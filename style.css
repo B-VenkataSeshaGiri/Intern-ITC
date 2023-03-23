@@ -1,0 +1,55 @@
+#parallax
+{
+      /* The image used */
+  background-image: url("./bghighlight.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+  width:1500px;
+  margin-left:-105px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gs
+{
+  height: 70px;
+  border-radius:100px;
+  width: 150px;
+}
+.gs:hover
+{
+  font-size: 40px;
+  transition: all 1s ease;
+}
+.gi
+{
+  height: 70px;
+  border-radius:100px;
+  width: 150px;
+}
+.gi:hover
+{
+  font-size: 40px;
+  transition: all 1s ease;
+}
+.gr:hover
+{
+  font-size: 30px;
+  transition: all 1s ease;
+
+}
+.gr
+{
+  height: 70px;
+  border-radius:100px;
+  width: 150px;
+}
+.giri
+{
+  margin-bottom: 5px;
+
+}
